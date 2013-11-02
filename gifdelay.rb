@@ -5,5 +5,5 @@ class Gifdelay < Formula
   depends_on 'ffmpeg'
   homepage 'https://github.com/ChristianBundy/gifdelay'
   url 'https://raw.github.com/ChristianBundy/gifdelay/master/bin/gifdelay'
-  sha1 '7f3ef169e040dc113d32437be74c2675769009a5'
+  sha1 'd91cfd89b8f9523be6ba8878aa4d917ec60da647'
 end
