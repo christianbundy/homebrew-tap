@@ -1,6 +1,6 @@
 require 'formula'
 
-class Gifdelay < Formula
+class Gifdelay < GithubGistFormula
   depends_on 'imagemagick'
   homepage 'https://github.com/ChristianBundy/gifdelay'
   url 'https://raw.github.com/ChristianBundy/gifdelay/master/bin/gifdelay'
