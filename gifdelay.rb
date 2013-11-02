@@ -3,7 +3,7 @@ require 'formula'
 class Gifdelay < Formula
   depends_on 'imagemagick'
   depends_on 'ffmpeg'
-  homepage 'https://github.com/ChristianBundy/gif2mp4'
-  url 'https://raw.github.com/ChristianBundy/gif2mp4/master/bin/gif2mp4'
-  sha1 '7f3ef169e040dc113d32437be74c2675769009a5'
+  homepage 'https://github.com/ChristianBundy/gifdelay'
+  url 'https://raw.github.com/ChristianBundy/gifdelay/master/bin/gifdelay'
+  sha1 'd91cfd89b8f9523be6ba8878aa4d917ec60da647'
 end
