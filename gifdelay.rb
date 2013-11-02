@@ -4,5 +4,5 @@ class Gifdelay < GithubGistFormula
   depends_on 'imagemagick'
   homepage 'https://github.com/ChristianBundy/gifdelay'
   url 'https://raw.github.com/ChristianBundy/gifdelay/master/bin/gifdelay'
-  sha1 'd91cfd89b8f9523be6ba8878aa4d917ec60da647'
+  sha1 '5b31bff835c167b13e0f39a7fb6acd8430191a56'
 end
